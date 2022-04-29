@@ -53,7 +53,7 @@ function SinglePatient(props) {
 
   return (
     <Box id='single-patient-root'>
-      <Button onClick={() => { navigate('/patients') }}>
+      <Button onClick={() => { navigate('/patients') }} sx={{ ml: '2rem' }}>
         <ArrowBack/>
           All Patients
       </Button>
