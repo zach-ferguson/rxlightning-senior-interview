@@ -14,7 +14,7 @@ backend:<br/>
 _________________________________________________________________
 
 The routes are auth restricted via a hardcoded token.<br/>
-In production we would use jwt or other tool to generate and compare tokens.<br/>
+In production we would use jwt or another token tool to generate and compare tokens.<br/>
 There we could adjust settings like token duration.<br/>
 We could store the jwt token in an http-only cookie to allow persistence over tabs and refreshing the window.<br/>
 <br/><br/>
