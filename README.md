@@ -2,14 +2,14 @@
 
 frontend:
 
-&nbsp;&nbsp;cd frontend
-&nbsp;&nbsp;npm i
-&nbsp;&nbsp;npm start
-
-backend:
-
-&nbsp;&nbsp;cd backend/starter-api/src/Api
-&nbsp;&nbsp;dotnet run
+&nbsp;&nbsp;cd frontend<br/>
+&nbsp;&nbsp;npm i<br/>
+&nbsp;&nbsp;npm start<br/>
+<br/>
+backend:<br/>
+<br/>
+&nbsp;&nbsp;cd backend/starter-api/src/Api<br/>
+&nbsp;&nbsp;dotnet run<br/>
 
 _________________________________________________________________
 
